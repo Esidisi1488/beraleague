@@ -1,0 +1,7 @@
+# Introduction
+
+Esports today is not just about gaming; it is an industry that attracts millions of participants around the world. Players, viewers, and sponsors are actively engaged in tournaments for games such as Dota 2, CS2, Valorant, and many more. This ecosystem is growing rapidly, offering new opportunities for both gaming enthusiasts and professionals. However, despite impressive growth, the industry faces significant challenges.
+
+On the one hand, tournament systems are often centralized and managed by large organizations, sometimes resulting in a lack of transparency in prize distribution and event management. On the other hand, for many players, participating in major tournaments comes with high entry barriers, whether financial limitations or access restrictions. There is also the issue of trust: both players and sponsors need to be confident that all transactions and outcomes will be fair and transparent.
+
+Our project offers an innovative solution to these problems through decentralization of tournaments using blockchain and NFT technology. League Web3 aims to build a fully decentralized esports competition platform where everyone can be assured of transparency and fairness in the process. Through blockchain technology, we provide full visibility into transactions, prize fund distribution, and organizational processes, while offering sponsors a new level of interaction with tournaments.
