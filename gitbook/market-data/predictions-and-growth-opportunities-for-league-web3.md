@@ -8,24 +8,24 @@ The esports, blockchain, and NFT markets are showing significant growth, and the
 
 ### SWOT Analysis of the League Web3 Platform&#x20;
 
-_**Strengths 💪 :**_
+_**Strengths:**_
 
 * Innovative concept at the intersection of esports, blockchain, and NFTs.
 * Transparency and fairness through the use of smart contracts and blockchain.
 * Unique offerings for players through NFT integration.
 * Flexibility and security through cryptocurrency transactions and Web3.
 
-_**Weaknesses🤒 :**_
+_**Weaknesses:**_
 
 * Dependence on the development and stability of blockchain infrastructure.&#x20;
 * Potential technical difficulties for users unfamiliar with Web3 and cryptocurrencies.&#x20;
 
-**Opportunities 😎 :**
+**Opportunities:**
 
 * The growing popularity of esports and NFTs offers huge prospects for attracting users.
 * The possibility of expanding the platform through partnerships with esports organizations and major brands.
 
-**Threats 👿:**
+**Threats:**
 
 * Competition from other platforms in the blockchain and NFT industry.
 * Cryptocurrency market volatility may affect affordability for some users.

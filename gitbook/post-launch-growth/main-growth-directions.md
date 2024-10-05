@@ -6,8 +6,8 @@ One of our first tasks after launch will be to expand the list of games availabl
 
 In the future, we plan to include games such as:
 
-* Call of Duty <img src="../.gitbook/assets/image (5).png" alt="" data-size="line"> — one of the most popular shooter franchises.&#x20;
-* PUBG <img src="../.gitbook/assets/image (6).png" alt="" data-size="line"> — a battle royale game that continues to attract millions of players.&#x20;
-* Rocket League <img src="../.gitbook/assets/image (7).png" alt="" data-size="line"> — a dynamic arcade game popular among esports players and viewers.&#x20;
-* League of Legends <img src="../.gitbook/assets/image (8).png" alt="" data-size="line"> — another iconic MOBA game that can attract a large player base.
+* Call of Duty <img src="../.gitbook/assets/image (17).png" alt="" data-size="line"> — one of the most popular shooter franchises.&#x20;
+* PUBG <img src="../.gitbook/assets/image (15).png" alt="" data-size="line"> — a battle royale game that continues to attract millions of players.&#x20;
+* Rocket League <img src="../.gitbook/assets/image (16).png" alt="" data-size="line">— a dynamic arcade game popular among esports players and viewers.&#x20;
+* League of Legends <img src="../.gitbook/assets/image (14).png" alt="" data-size="line"> — another iconic MOBA game that can attract a large player base.
 
