@@ -1,3 +1,22 @@
+---
+cover: .gitbook/assets/00deaf95-ec93-4265-8180-b853125eff97.jfif
+coverY: -2.4987057808455546
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Welcome
 
 Welcome to the White Paper of our project, which aims to revolutionize the esports tournament industry using modern blockchain and NFT technologies. Our project offers an innovative solution for organizing competitions in popular online games like Fortnite, Dota 2, CS2, Valorant, and others, combining esports and the Web3 space.
