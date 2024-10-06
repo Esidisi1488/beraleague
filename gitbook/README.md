@@ -26,3 +26,10 @@ In recent years, the esports market has grown rapidly, attracting millions of pl
 We see the solution to these problems through decentralization and the implementation of blockchain technology. League Web3 creates a platform that provides players, organizers, and sponsors with a secure, transparent, and fair environment for hosting tournaments.
 
 We are confident that with blockchain, smart contracts, and NFTs, we can build an ecosystem that will change the future of esports, making it more accessible, fair, and beneficial for all participants. League Web3 aims to become a leader in decentralized tournaments, and we are excited to invite you to join us on this journey.
+
+### Social Links:
+
+{% embed url="https://t.me/Web3Aeterno" %}
+
+{% embed url="https://x.com/leagueweb3?s=21&t=57LIQA81MRN4sIH6TMnzVw" fullWidth="false" %}
+
